@@ -15,7 +15,7 @@ I also love working with the developer communities on building cool projects.
 -  https://fredflix-1796d.web.app/
 
 - Link to my blog 
--https://wilfred9.hashnode.dev/
+- https://wilfred9.hashnode.dev/
 
 You can connect with me on 
 . Twitter: @ayomidewilfred9

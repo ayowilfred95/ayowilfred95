@@ -14,6 +14,9 @@ I also love working with the developer communities on building cool projects.
 -  https://buymeacoffee-website.ayomidewilfred.repl.co/
 -  https://fredflix-1796d.web.app/
 
+<> Link to my blog </>
+-https://wilfred9.hashnode.dev/
+
 You can connect with me on 
 . Twitter: @ayomidewilfred9
 . Linkedin: @ayomide wilfred

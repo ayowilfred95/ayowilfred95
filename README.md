@@ -1,7 +1,7 @@
 
 - 👋 Hi, I'M WILFRED 
 
-A frontend Engineer and Blockchain Developer who is passionate about learning,building and solving problems.
+A frontend Engineer,Technical Writer and Blockchain Developer who is passionate about learning,building and solving problems.
 
 I also love working with the developer communities on building cool projects.
 
@@ -11,6 +11,7 @@ I also love working with the developer communities on building cool projects.
 -  https://phummyty.vercel.app/
 -  https://nft-testnet.netlify.app/
 -  https://ng-x.vercel.app/
+-  https://buymeacoffee-website.ayomidewilfred.repl.co/
 
 You can connect with me on 
 . Twitter: @ayomidewilfred9

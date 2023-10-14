@@ -1,7 +1,7 @@
 
 - 👋 Hi, I'M WILFRED 
 
-A Fullstack Engineer,Technical Writer and Blockchain Developer who is passionate about learning,building and solving problems.
+A Backend Dev,Technical Writer and Blockchain Dev who is passionate about learning,building and solving problems.
 
 I also love working with the developer communities on building cool projects.
 

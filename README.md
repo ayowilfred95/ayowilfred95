@@ -28,7 +28,7 @@ Here are some projects I'm proud of:
    
 - **[ChatBot](https://open-ai-chat-bot-amber.vercel.app):** This is a versatile application encompassing a chatbot and a voice-to-text feature. The chatbot relies on the OpenAI GPT-3.5 Model, while the voice-to-text functionality relies on the OpenAI GPT-3.5 Model and Pinecone.
   - **Tech Stack**
-    - **Backend:** Node.js,Express,Jest.
+    - **Backend and Frontend:** Nextjs
    
 - **[Bitcoin & Ethereum Address Generator](https://github.com/ayowilfred95/qoinpal_crypto):** The Multi-Blockchain Address Generator is a Golang-powered utility developed by the Qoinpal team to effortlessly generate numerous addresses tailored for different blockchains. These versatile addresses serve various purposes for our customers. Within this repository, we offer a streamlined and effective solution for the management of blockchain addresses in our project.
   - **Tech Stack**

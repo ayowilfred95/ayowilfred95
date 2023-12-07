@@ -25,6 +25,20 @@ Here are some projects I'm proud of:
   - **Tech Stack**
     - **Frontend:** React
     - **Backend:** Solidity
+   
+- **[ChatBot](https://open-ai-chat-bot-amber.vercel.app):** This is a versatile application encompassing a chatbot and a voice-to-text feature. The chatbot relies on the OpenAI GPT-3.5 Model, while the voice-to-text functionality relies on the OpenAI GPT-3.5 Model and Pinecone.
+  - **Tech Stack**
+    - **Backend:** Node.js,Express,Jest.
+   
+- **[Bitcoin & Ethereum Address Generator](https://github.com/ayowilfred95/qoinpal_crypto):** The Multi-Blockchain Address Generator is a Golang-powered utility developed by the Qoinpal team to effortlessly generate numerous addresses tailored for different blockchains. These versatile addresses serve various purposes for our customers. Within this repository, we offer a streamlined and effective solution for the management of blockchain addresses in our project.
+  - **Tech Stack**
+    - **Backend:** Golang, Gin Framework
+    - **Database:** BadgerDB
+   
+- **[Question Paper Generator application ](https://github.com/ayowilfred95/Question-Paper-Generator-application):** Within this repository, you'll find the code for a Question Paper Generator application crafted with Express. This application empowers users to create question papers with ease, leveraging diverse criteria like total marks, difficulty percentages, and topic percentages. Robust testing has been integrated using Jest to ensure reliability and accuracy.
+  - **Tech Stack**
+    - **Backend:** Node.js,Express,Jest.
+   
 
 - **[Technical Writer](https://wilfred9.hashnode.dev/):** In addition to coding, I also specialize in technical writing. My content typically covers various topics, including databases, backend development, and tools for web applications.
   - **Tech Stack**

@@ -1,26 +1,55 @@
+# Hi there! 👋
 
-- 👋 Hi, I'M WILFRED 
+My name is Ayomide Wilfred, and I'm a passionate Backend Developer based in Lagos, Nigeria. Welcome to my GitHub profile! 🚀
 
-A Backend Dev,Technical Writer and Blockchain Dev who is passionate about learning,building and solving problems.
+## About Me
 
-I also love working with the developer communities on building cool projects.
+I am a Backend Developer with a strong background in Nodejs, Typescript, Golang, Docker, Postgres, and CI/CD. I love to play guitar. Currently, I am a Backend Developer at Nupat Technologies.
 
+## 🚀 Projects
 
-- Have built couples of projects and also participated in web3 hackathon like Polygon africa bootcamp where my team and i built a decentralized health care database deployed on blockchain
-- link to my projects
--  https://phummyty.vercel.app/
--  https://openai-frontend-lemon.vercel.app/
--  https://ng-x.vercel.app/
--  https://buymeacoffee-website.ayomidewilfred.repl.co/
--  https://fredflix-1796d.web.app/
+Here are some projects I'm proud of:
 
-- Link to my blog 
-- https://wilfred9.hashnode.dev/
+- **[School Portal](http://pisonitsha.com):** This is a web application designed for school management, where the principal serves as the admin. The principal has the authority to register teachers and students.
+  - **Tech Stack**
+    - **Backend:** Node.js, Express
+    - **Database:** MySQL, Sequelize (ORM)
 
-You can connect with me on 
-. Twitter: @ayomidewilfred9
-. Linkedin: @ayomide wilfred
+- **[AI Image Generator](https://openai-frontend-lemon.vercel.app):** This AI Image Generator allows you to provide a description of the desired image, and the AI will create the image accordingly based on the given input.
+  - **Tech Stack**
+    - **Frontend:** React
+    - **Backend:** Node.js, Express, Openai API
+    - **Database:** MongoDB
 
+- **[Buy Me a Coffee]( https://buymeacoffee-website.ayomidewilfred.repl.co/):** Buyme a coffee is a decentralized finance (DeFi) application developed on the Ethereum smart contract platform. This application enables individuals to express their gratitude by offering tips when services are provided, with cryptocurrency being the sole payment option available to them.
+  - **Tech Stack**
+    - **Frontend:** React
+    - **Backend:** Solidity
 
-cheers!
+- **[Technical Writer](https://wilfred9.hashnode.dev/):** In addition to coding, I also specialize in technical writing. My content typically covers various topics, including databases, backend development, and tools for web applications.
+  - **Tech Stack**
+    - **Frontend:** React
+    - **Backend:** Solidity
 
+## 🌱 I’m currently learning
+
+I'm always excited to learn new technologies. Currently, I'm focusing on:
+
+- [DevOps/Jenkins, Kubernetes, Microsoft Azure CI/CD Pipeline, AWS CI/CD Pipeline]
+- [AI/ML/]
+
+## 🔧 Skills
+
+- Programming Languages: [JavaScript, Typescript, Golang]
+- Web Technologies: [ JavaScript, Node.js, React, Nextjs]
+- Tools & Frameworks: [Gin, Fiber, Express, MongoDB, Postgres, MySQL, Docker, Git, Prisma, Sequelize]
+- ...
+
+## 📫 Connect with Me
+
+- LinkedIn: [@ayomide wilfred](https://www.linkedin.com/in/ayomide-wilfred-95083a104/)
+- Twitter: [@ayomidewilfred9](https://twitter.com/AyomideWilfred9)
+
+Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi! 😊
+
+Thanks for visiting my GitHub profile!

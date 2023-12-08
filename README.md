@@ -15,6 +15,13 @@ Here are some projects I'm proud of:
     - **Backend:** Node.js, Express
     - **Database:** MySQL, Sequelize (ORM)
 
+- **[Qoinpal Waitlist](https://qoinpal.com):** QoinPal is a borderless fiat-to-crypto and crypto-to-fiat payment solution.Qoinpal acts as a bridge; you send money from a your local bank account and the recipient receives it as crypto and vice versa with crypto-to-fiat payments. And no, you don’t need a wallet.
+  - **Tech Stack**
+    - **Frontend:** React,Typescript
+    - **Backend:** Golang,Fiber, Gorm.
+    - **Database:** Postgres
+
+
 - **[AI Image Generator](https://openai-frontend-lemon.vercel.app):** This AI Image Generator allows you to provide a description of the desired image, and the AI will create the image accordingly based on the given input.
   - **Tech Stack**
     - **Frontend:** React

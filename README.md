@@ -11,7 +11,7 @@ I am a Backend/Devops Developer with a strong background in Nodejs, Typescript, 
 Here are some projects I'm proud of:
 
 - **[School Portal](http://pisonitsha.com):** This is a web application designed for school management, where the principal serves as the admin. The principal has the authority to register teachers and students.
-- **[Github Link](https://github.com/ayowilfred95/peace-international-school-admin-portal)**
+  **[Github Link](https://github.com/ayowilfred95/peace-international-school-admin-portal)**
   - **Tech Stack**
     - **Backend:** Node.js, Express
     - **Database:** MySQL, Sequelize (ORM)
@@ -26,7 +26,7 @@ Here are some projects I'm proud of:
 
 
 - **[AI Image Generator](https://openai-frontend-lemon.vercel.app):** This AI Image Generator allows you to provide a description of the desired image, and the AI will create the image accordingly based on the given input.
-- **[Github Link](https://github.com/ayowilfred95/OpenAI)**
+  **[Github Link](https://github.com/ayowilfred95/OpenAI)**
   - **Tech Stack**
     - **Frontend:** React
     - **Backend:** Node.js, Express, Openai API
@@ -39,7 +39,7 @@ Here are some projects I'm proud of:
     - **Backend:** Solidity
    
 - **[ChatBot](https://open-ai-chat-bot-amber.vercel.app):** This is a versatile application encompassing a chatbot and a voice-to-text feature. The chatbot relies on the OpenAI GPT-3.5 Model, while the voice-to-text functionality relies on the OpenAI GPT-3.5 Model and Pinecone.
-- **[Github Link](https://github.com/ayowilfred95/OpenAi-ChatBot)**
+  **[Github Link](https://github.com/ayowilfred95/OpenAi-ChatBot)**
   - **Tech Stack**
     - **Backend and Frontend:** Nextjs
      - **Deploymen:** vercel
@@ -54,7 +54,7 @@ Here are some projects I'm proud of:
     - **Backend:** Node.js,Express,Jest.
    
 - **[IP Analyzer](https://ip-analyzer-teal.vercel.app):** The main objective of IP Analyzer is to provide users with essential information regarding their public IP address and latency details. By prioritizing extensibility, we ensure that the system can evolve and adapt to incorporate new data points seamlessly.
-- **[Github Link](https://github.com/ayowilfred95/ip-analyzer)**
+  **[Github Link](https://github.com/ayowilfred95/ip-analyzer)**
   - **Tech Stack**
     - **Frontend:** React
     - **Backend:** Node.js, Express, Websocket

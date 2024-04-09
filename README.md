@@ -22,7 +22,7 @@ Here are some projects I'm proud of:
     - **Frontend:** React,Typescript
     - **Backend:** Golang,Fiber, Gorm.
     - **Database:** Postgres
-    - **Deploymen:** Docker, Railway,Azure
+    - **Deployment:** Docker, Railway,Azure
 
 
 - **[AI Image Generator](https://openai-frontend-lemon.vercel.app):** This AI Image Generator allows you to provide a description of the desired image, and the AI will create the image accordingly based on the given input.
@@ -31,7 +31,7 @@ Here are some projects I'm proud of:
     - **Frontend:** React
     - **Backend:** Node.js, Express, Openai API
     - **Database:** MongoDB
-    - **Deploymen:** Railway,Docker
+    - **Deployment:** Railway,Docker
 
 - **[Buy Me a Coffee]( https://buymeacoffee-website.ayomidewilfred.repl.co/):** Buyme a coffee is a decentralized finance (DeFi) application developed on the Ethereum smart contract platform. This application enables individuals to express their gratitude by offering tips when services are provided, with cryptocurrency being the sole payment option available to them.
   - **Tech Stack**
@@ -42,7 +42,7 @@ Here are some projects I'm proud of:
   **[Github Link](https://github.com/ayowilfred95/OpenAi-ChatBot)**
   - **Tech Stack**
     - **Backend and Frontend:** Nextjs
-     - **Deploymen:** vercel
+     - **Deployment:** vercel
    
 - **[Bitcoin & Ethereum Address Generator](https://github.com/ayowilfred95/qoinpal_crypto):** The Multi-Blockchain Address Generator is a Golang-powered utility developed by the Qoinpal team to effortlessly generate numerous addresses tailored for different blockchains. These versatile addresses serve various purposes for our customers. Within this repository, we offer a streamlined and effective solution for the management of blockchain addresses in our project.
   - **Tech Stack**
@@ -52,14 +52,26 @@ Here are some projects I'm proud of:
 - **[Question Paper Generator application ](https://github.com/ayowilfred95/Question-Paper-Generator-application):** Within this repository, you'll find the code for a Question Paper Generator application crafted with Express. This application empowers users to create question papers with ease, leveraging diverse criteria like total marks, difficulty percentages, and topic percentages. Robust testing has been integrated using Jest to ensure reliability and accuracy.
   - **Tech Stack**
     - **Backend:** Node.js,Express,Jest.
+      
    
 - **[IP Analyzer](https://ip-analyzer-teal.vercel.app):** The main objective of IP Analyzer is to provide users with essential information regarding their public IP address and latency details. By prioritizing extensibility, we ensure that the system can evolve and adapt to incorporate new data points seamlessly.
   **[Github Link](https://github.com/ayowilfred95/ip-analyzer)**
   - **Tech Stack**
     - **Frontend:** React
     - **Backend:** Node.js, Express, Websocket
-    - **Deploymen:** Docker, Render, Vercel.
-   
+    - **Deployment:** Docker, Render, Vercel.
+
+- **[NG-X](https://ng-x.vercel.app/):** NG-X is a data exchange dAPP built on top of polygon ,a layer2 blockchain. NG-X enables the sharing of data pertaining to health. NG-X enables citizens to manage their prescriptions, submit health information, and manage dependents.
+  **[Github Link to frontend](https://github.com/ayowilfred95/ng-x)**    **[Github Link to backend](https://github.com/ayowilfred95/NG--X)**
+  - **Tech Stack**
+    - **Backend:** Solidity, hardhat
+    - **Frontend:** Figma, React, Tailwind css
+     - **Deployment:** Polygon, vercel
+- **[Solana Pay Store](https://solana-pay-starter-psi-three.vercel.app/):** Solana pay is a web3 version of ebay. It accept cryptocurrency which is SOL coin as a means of payment.
+  **[Github](https://github.com/ayowilfred95/solana-pay-starter)** 
+  - **Tech Stack**
+    - **Frontend:** Figma, React, Tailwind css
+     - **Deployment:** Solana, vercel
 
 - **[Technical Writer](https://wilfred9.hashnode.dev/):** In addition to coding, I also specialize in technical writing. My content typically covers various topics, including databases, backend development, and tools for web applications.
   - **Tech Stack**

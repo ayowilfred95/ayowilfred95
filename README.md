@@ -4,7 +4,7 @@ My name is Ayomide Wilfred, and I'm a passionate Backend/Devops Developer based 
 
 ## About Me
 
-I am a Backend/Devops Developer with a strong background in Nodejs, Typescript, Golang, Docker, Postgres, Kubernetes, Terraform, Jenkins, Gitlab CI/CD,and Azure Devops. I love to play guitar. Currently, I am a Backend Developer and a Devops Facilitator at Nupat Technologies.
+I am a Backend/Devops Developer with a strong background in Nodejs, Typescript, Golang, Docker, Postgres, Kubernetes, Azure Kubernetes, ACR, Terraform, Jenkins, Gitlab CI/CD,and Azure Devops. I love to play guitar. Currently, I am a Backend/Devops Developer and Facilitator at Nupat Technologies.
 
 ## 🚀 Projects
 

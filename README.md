@@ -17,7 +17,7 @@ Here are some projects I'm proud of:
     - **Database:** MySQL, Sequelize (ORM)
     - **Deployment:** True-host, C-panel
 
-- **[Qoinpal Waitlist](https://qoinpal.com):** QoinPal is a borderless fiat-to-crypto and crypto-to-fiat payment solution.Qoinpal acts as a bridge; you send money from a your local bank account and the recipient receives it as crypto and vice versa with crypto-to-fiat payments. And no, you don’t need a wallet.
+- **[Qoinpal](https://qoinpal-waitlist.vercel.app):** QoinPal is a borderless fiat-to-crypto and crypto-to-fiat payment solution.Qoinpal acts as a bridge; you send money from a your local bank account and the recipient receives it as crypto and vice versa with crypto-to-fiat payments. And no, you don’t need a wallet.
   - **Tech Stack**
     - **Frontend:** React,Typescript
     - **Backend:** Golang,Fiber, Gorm.
